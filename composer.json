@@ -1,0 +1,19 @@
+{
+    "name": "pdo/aplicacion",
+    "description": "CrudMvc",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Pdo\\Aplicacion\\": "src/",
+            "Pdo\\Aplicacion\\Controllers\\": "src/Controllers/",
+            "Pdo\\Aplicacion\\Models\\": "src/Models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antony-Holguin",
+            "email": "antonyholguin37@gmail.com"
+        }
+    ],
+    "require": {}
+}
